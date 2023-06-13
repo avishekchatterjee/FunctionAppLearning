@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LearnFuncApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7222",
+      "launchBrowser": false
+    }
+  }
+}
